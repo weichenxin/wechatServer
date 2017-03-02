@@ -8,7 +8,9 @@
     "formidable": "^1.1.1",
     "npm": "^4.3.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  },
   "scripts": {
     "test": "make test"
   },
